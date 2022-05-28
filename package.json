@@ -1,0 +1,16 @@
+{
+  "name": "chat-terminal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "keywords": [],
+  "author": "furhex",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.7.0",
+    "terminal-kit": "^2.4.0"
+  }
+}
